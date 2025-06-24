@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0px;
+}
+.titulo1 {
+    color: rgb(228, 164, 105);
+}
+.listastop {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 200px;
+    margin: 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
